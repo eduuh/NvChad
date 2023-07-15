@@ -1,4 +1,5 @@
 ---@type ChadrcConfig 
+-- edwin test
  local M = {}
  M.ui = { theme = 'catppuccin' }
  M.plugins = "custom.plugins"
